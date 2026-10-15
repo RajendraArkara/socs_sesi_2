@@ -1,6 +1,6 @@
 # BLU CLI Banking System
 
-CLI banking sederhana berbasis file teks, ditulis dengan Go.
+CLI banking sederhana berbasis file teks.
 
 ## Cara pakai
 
